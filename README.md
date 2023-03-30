@@ -4,7 +4,7 @@ Functional 2layer stepper driver PCB, uses onboard ESP32 to control the TMC2209 
 File for production Gerber available in folder Gerber.
 
 
-![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/main/pictures/PCB_real.jpg?raw=true)
-![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/main/pictures/PCB%20schematic.png?raw=true)
-![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/main/pictures/PCB%203D%20final.png?raw=true)
-![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/main/pictures/PCB%20routing.png?raw=true)
+![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/master/pictures/PCB_real.jpg?raw=true)
+![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/master/pictures/PCB%20schematic.png?raw=true)
+![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/master/pictures/PCB%203D%20final.png?raw=true)
+![some text](https://github.com/FSkavlem/PCB_MotorDriver/blob/master/pictures/PCB%20routing.png?raw=true)
